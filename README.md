@@ -1,0 +1,2 @@
+# docs
+Duck Plaform documentation
